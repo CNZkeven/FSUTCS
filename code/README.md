@@ -90,7 +90,7 @@ gcc -std=c11 -Wall -Wextra -IUSER tests/control_output_test.c USER/control_outpu
 如果已经完成 CMake 配置，可直接构建：
 
 ```bash
-env PATH="/home/kevenchow/.local/share/stm32cube/bundles/gnu-tools-for-stm32/14.3.1+st.2/bin:$PATH" cmake --build build
+env PATH="（你自己的工具路径））/bin:$PATH" cmake --build build
 ```
 
 说明：
