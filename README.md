@@ -13,6 +13,12 @@
 - 能够通过串口与上位机双向通信
 - 能够在 LCD 和上位机界面同时显示系统运行状态
 
+
+<img width="1500" height="600" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/6c6f6013-62cf-4389-ac4b-c1675914ded3" />
+
+
+
+
 ## 2. 课设要求对应关系
 
 | 课设要求 | 本项目实现方式 |
